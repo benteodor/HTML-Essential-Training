@@ -1,1 +1,1 @@
-In here I practiced and learned the HTML basics. I took this course through LinkedIn. 
+In this section, I practiced and mastered the fundamentals of HTML. This course was offered through LinkedIn.
