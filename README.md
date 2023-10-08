@@ -1,5 +1,3 @@
-
-
  ## Link to the live website 
  https://benteodor.github.io/HTML-Essential-Training/
  ## Description 
