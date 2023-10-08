@@ -1,6 +1,6 @@
 
 
- ## Link to live website 
+ ## Link to the live website 
  https://benteodor.github.io/HTML-Essential-Training/
  ## Description 
  In this section, I practiced and mastered the fundamentals of HTML. This course was offered through LinkedIn.
